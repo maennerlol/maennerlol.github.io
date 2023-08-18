@@ -16,7 +16,13 @@ p {
 
  img {
      margin: 30px;
+     
  }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
 
 .test{
     height:200px;
