@@ -1,7 +1,7 @@
 h1 {
     font-family: Avenir;
-    font-size: 120px;
-    margin: 30px;
+    font-size: 150px;
+    margin: 0px;
     text-align: center
 }
 
@@ -11,7 +11,7 @@ p {
 }
  body {
      background-color: lightgray;
-     margin: 0px 100px 0px 100px;
+     margin: 0px 0px 0px 0px;
  }
 
 img.center {
