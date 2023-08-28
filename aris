@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <meta charset="UTF-8">
+    <br />
+    <br />
+    <br />
+    <title>Michael Aris</title>
+
+</head>
+
+<body>
+  
+     <img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Michael_Aris_%281946%E2%80%931999%29.jpg" width="900" class="center" alt="Michael Aris" title="Michael Aris" />
+    <h1>Michael Aris
+    <br />
+    1946 - 1999</h1>
+    <p>
+Der Historiker Michael Aris promovierte zu tibetischer Literatur und wurde Professor für Asienwissenschaften an der University of Oxford. Als seine Frau, die birmanische Politikerin Aung San Suu Kyi, unter Hausarrest in Burma stand, sorgte er für ihre beiden Söhne in Großbritannien. 
+<p>
+Als Dr Aris mit Prostatakrebs diagnostiziert wurde, wurde ihm die Einreise nach Burma verweigert, trotz Appelle von vielen Individuen und Organisationen, darunter Pope John Paul II, Kofi Annan und die US-Amerikanische Regierung. Er verstarb 1999. In den davor liegenden zehn Jahren hatte er seine Frau nur fünf mal gesehen.
+</p>
+<button style="height:100px;width:350px;font-size:50px" onclick="window.location.href='xxx.html';">
+      Eher ja
+    </button>
+   <button  style="height:100px;width:350px;font-size:50px" onclick="window.location.href='xxx.html';">
+      Eher nein
+    </button>
+     <br />
+    <br />
+    <br />
+    <br />
+</body>
+</html>
